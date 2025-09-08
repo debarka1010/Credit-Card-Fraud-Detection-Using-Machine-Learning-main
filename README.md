@@ -27,6 +27,8 @@ Output:
 - Classification report (precision, recall, F1-score)
 - Confusion matrix and plots
 
+Dataset:
+- The data is available from Kaggle: "Credit Card Fraud Detection" (mlg-ulb/creditcardfraud).
+- It contains 284,807 anonymized credit card transactions, of which 492 (≈ 0.17%) are fraudulent, making the dataset highly imbalanced. Most features (V1–V28) are PCA components; only 'Time' and 'Amount' are untransformed. :contentReference[oaicite:0]{index=0}
 
-
-
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
