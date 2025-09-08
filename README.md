@@ -1,1 +1,32 @@
-Credit card fraud detection using machine learning leverages algorithms to analyze transaction patterns and identify unusual or suspicious behavior in real time. By applying techniques like classification, anomaly detection, and clustering, ML models can significantly reduce false positives while improving the accuracy of detecting fraudulent activities. This enhances financial security and helps banks minimize losses.
+Credit Card Fraud Detection
+
+
+This project uses Machine Learning to detect fraudulent credit card transactions.
+
+Steps in the Code:
+1. Import libraries (pandas, numpy, matplotlib, seaborn, scikit-learn).
+2. Load the dataset (creditcard.csv).
+3. Explore and preprocess the data (handle missing values, scale data, etc.).
+4. Train a Random Forest Classifier using train-test split.
+5. Evaluate the model using accuracy, classification report, and confusion matrix.
+6. Visualize results (correlation heatmap, confusion matrix, etc.).
+
+Requirements:
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scikit-learn
+
+How to Run:
+1. Place the dataset file (creditcard.csv) in the project folder.
+2. Run the Python script or Jupyter Notebook.
+
+Output:
+- Model accuracy score
+- Classification report (precision, recall, F1-score)
+- Confusion matrix and plots
+
+
+
+
